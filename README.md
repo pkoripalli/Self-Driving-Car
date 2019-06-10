@@ -13,6 +13,8 @@ To visualize training using Tensorboard use tensorboard --logdir=./logs, then op
 
 ### Demo
 
+![](self_driving_car_gif.gif)
+
 * Credits: https://github.com/SullyChen/Autopilot-TensorFlow
 
 * Research paper: End to End Learning for Self-Driving Cars by Nvidia. [https://arxiv.org/pdf/1604.07316.pdf]
