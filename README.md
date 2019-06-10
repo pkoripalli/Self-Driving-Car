@@ -3,9 +3,9 @@
 A TensorFlow implementation of this [Nvidia paper](https://arxiv.org/pdf/1604.07316.pdf) with some changes.
 
 ### How to Use
-Download the dataset and extract into the repository folder Size: 25 minutes = 256030 = 45,000 images ~ 2.3 GB
+Download the [dataset](https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view) and extract into the repository folder Size: 25 minutes = 256030 = 45,000 images ~ 2.3 GB
 
-Use python train.py to train the model
+Use ---python train.py to train the model
 
 Use python run.py to run the model on a live webcam feed
 
